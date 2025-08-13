@@ -1,5 +1,7 @@
 # Telco-Customer-Churn-Prediction-and-Analysis
 
+![Project Presentation](ML_Project.gif)  
+
 ## Overview
 Customer churn poses a significant challenge to businesses, impacting profitability and sustainability. This project uses the **Telco Customer Churn dataset** from Kaggle to build predictive models and provide insights for minimizing churn rates.
 
